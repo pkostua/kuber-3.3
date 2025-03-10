@@ -147,7 +147,7 @@ spec:
               app: backend
 ```
 
-### Запрет все остальных маршрутов
+### Запрет всех остальных маршрутов
 ```
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
